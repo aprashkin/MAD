@@ -24,7 +24,6 @@
         android:layout_marginTop="270dp"
         android:hint="Email"
         android:textColorHint="#BEC2C2"
-
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
 
