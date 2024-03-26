@@ -2,10 +2,24 @@
     <string name="app_name">MAD</string>
     <string name="aaa">aaa</string>
     <string name="HELLO">ПРИВЕТ</string>
+    <string name="sign_in">SIGN IN</string>
+
+    <style name="sign_in">
+        <item name="android:textSize">30dp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    
+    <style name="registration">
+        <item name="android:textColor">BEC2C2</item>
+        <item name="android:textSize">18dp</item>
+        <item name="android:textColorHint">#BEC2C2</item>
+    </style>
+
     <style name=
         "hello">
         <item name="android:textSize">34dp</item>
         <item name="fontFamily">@font/alegreyabold</item>
         <item name="android:textColor">#FFFFFF</item>
     </style>
+
 </resources>
